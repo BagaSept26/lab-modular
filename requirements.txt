@@ -7,7 +7,6 @@ transformers_stream_generator
 huggingface_hub
 faiss-cpu
 pyngrok
-firebase-admin
 PyGithub
 python-dotenv
 pypdf
@@ -15,3 +14,4 @@ docx2txt
 unstructured
 langchain-community
 llama-cpp-python
+pymongo
