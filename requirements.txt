@@ -1,18 +1,29 @@
 Flask
 Flask-Cors
+python-dotenv
+PyGithub
+PyPDF2
+faiss-cpu
 langchain
+llama-cpp-python
+pyngrok
+supabase
 transformers
 sentence-transformers
 transformers_stream_generator
 huggingface_hub
-faiss-cpu
-pyngrok
-supabase
-PyGithub
-python-dotenv
-pypdf
-docx2txt
 unstructured
 langchain-community
-llama-cpp-python
-werkzeug
+Werkzeug
+# Pillow
+# python-multipart
+# beautifulsoup4 
+# requests 
+# chromadb 
+# tiktoken 
+# fastapi 
+# uvicorn 
+protobuf<4.24 
+google-colab
+google-api-python-client
+oauth2client
