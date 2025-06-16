@@ -34,6 +34,11 @@ pypdf
 python-dateutil
 python-dotenv
 PyYAML
+pyngrok
+PyPDF2
+python-docx
+pandas
+
 requests
 rsa
 sentence-transformers
