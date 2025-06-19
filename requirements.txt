@@ -2,6 +2,7 @@ certifi
 charset-normalizer
 click
 colorama
+docx2txt
 exceptiongroup
 fastapi
 faiss-cpu
